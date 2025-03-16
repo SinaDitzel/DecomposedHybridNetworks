@@ -1,0 +1,39 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# IDE configurations (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Log files
+*.log
+
+# Test coverage and pytest caches
+.coverage
+*.coverage
+nosetests.xml
+test-results/
+*.gcov
+*.gcda
+*.gcno
+*.out
+
+# Other potentially generated files
+*.dat
+*.csv
+*.sqlite
